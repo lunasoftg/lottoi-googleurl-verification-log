@@ -33,7 +33,7 @@ is fully traceable and cannot be hidden**.
 ---
 
 ## 3. Overall Public Verification Flow (Actual Operational Standard)
-
+```
 [Creation of a Round-Specific Google Public Document]
 └ Initially created with read-only (Viewer) permission
 └ Creation timestamp automatically recorded by Google system
@@ -54,7 +54,7 @@ is fully traceable and cannot be hidden**.
 [Lottery Draw]
 ↓
 [Anyone Can Verify Creation Time, Permission Changes, and Modification History]
-
+```
 
 ---
 
@@ -129,7 +129,7 @@ prior to that time.
 ## 8. Key Elements for External Public Verification
 
 [Key Elements for External Public Verification]
-
+```
 └ GitHub Repository
 · Verify the initial logging timestamp of the Google document URL
 · Confirm that the timestamp precedes the lottery draw
@@ -140,7 +140,7 @@ prior to that time.
 · Confirm the final content state before the draw
 (Saturday, before 20:35)
 · Download the document as of that reference time if needed
-
+```
 
 ---
 
