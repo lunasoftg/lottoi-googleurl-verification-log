@@ -64,6 +64,25 @@ Instead, it is designed to make revisions transparent and difficult to conceal.
 
 Transparency is achieved through observable revision history rather than immutability.
 
+## 4-1. Operational Environment and Limitations of the Verification Structure
+
+LOTTOi operates under the principle that all records are generated  
+and publicly disclosed prior to the official lottery draw.
+
+However, due to external network conditions,  
+the service status of external platforms (such as Google and GitHub),  
+or other technical factors,  
+the creation or public availability of records may be temporarily delayed.
+
+In such cases, the actual creation timestamp and revision history  
+remain preserved within the external systems,  
+allowing the temporal relationship between the record and the draw time  
+to be clearly and independently verified after the fact.
+
+This explanation does not imply that delays are permitted or justified,  
+but clarifies that any delay cannot be concealed  
+and remains transparently observable through external records.
+
 ---
 
 ## 5. Scope of Disclosure and Privacy
