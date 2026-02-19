@@ -43,3 +43,19 @@
 아래 문서를 참고하시기 바랍니다.
 
 - [로또아이 결과 공개 검증 백서](./WHITEPAPER.md)
+- [로또아이 결과 공개 검증 백서 (영어)](./WHITEPAPER.md)
+
+
+---
+
+## Public Verification Whitepaper
+
+This repository serves as a technical verification log  
+within LOTTOi’s public verification system.
+
+For a detailed explanation of the verification principles,  
+operational scope, and structural design, please refer to  
+the following whitepaper documents:
+
+- 📄 [Whitepaper (Korean)](./WHITEPAPER.md)
+- 📄 [Whitepaper (English)](./WHITEPAPER.en.md)
