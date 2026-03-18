@@ -1,4 +1,4 @@
-# 로또아이 결과 공개 검증 백서
+# [로또아이](https://www.lottoi.kr/로또) 결과 공개 검증 백서
 *(LOTTOi Public Verification Structure Whitepaper – KR)*
 
 ---
@@ -180,7 +180,7 @@ Google/GitHub 플랫폼 장애,
 
 ## 11. 마무리
 
-로또아이는 결과를 남기기 전에,  
+[로또아이](https://www.lottoi.kr/로또)는 결과를 남기기 전에,  
 **결과를 남길 준비 과정부터 외부에 이력으로 남깁니다.**
 
 공개 검증이 특정 서비스의 차별 요소에 머무르지 않고,  
