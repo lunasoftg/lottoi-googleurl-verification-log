@@ -1,4 +1,4 @@
-# LOTTOi Public Verification Structure Whitepaper
+# [LOTTOi](https://www.lottoi.kr) Public Verification Structure Whitepaper
 *(English Version)*
 
 ---
@@ -176,7 +176,7 @@ or outcomes, and should not be interpreted as an investment or prediction guide.
 
 ## 11. Closing
 
-Before recording results, LOTTOi records  
+Before recording results, [LOTTOi](https://www.lottoi.kr) records  
 **the entire preparation process as externally verifiable history**.
 
 Rather than remaining a differentiating feature of a single service,  
