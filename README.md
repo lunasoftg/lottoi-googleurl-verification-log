@@ -1,6 +1,6 @@
 # lottoi-googleurl-verification-log
 
-이 저장소는 **로또아이(LOTTOi)** 서비스의  
+이 저장소는 **[로또아이(LOTTOi)](https://www.lottoi.kr/로또)** 서비스의  
 **결과 공개 검증 구조**를 구성하는  
 **외부 기준 로그(verification log)** 저장소입니다.
 
@@ -66,14 +66,13 @@
 
 - [로또아이 결과 공개 검증 백서 (Korean)](./WHITEPAPER.md)
 - [LOTTOi Public Verification Whitepaper (English)](./WHITEPAPER.en.md)
-- [로또아이(LOTTOi)](https://www.lottoi.kr/로또-당첨번호)
 
 ---
 
 ## Public Verification Whitepaper (EN)
 
 This repository serves as an **external verification log**  
-within LOTTOi’s public verification system.
+within [LOTTOi](https://www.lottoi.kr/로또)’s public verification system.
 
 It records when each Google public document URL  
 first existed externally, allowing anyone to verify  
