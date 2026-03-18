@@ -66,6 +66,7 @@
 
 - [로또아이 결과 공개 검증 백서 (Korean)](./WHITEPAPER.md)
 - [LOTTOi Public Verification Whitepaper (English)](./WHITEPAPER.en.md)
+- [로또아이(LOTTOi)](https://www.lottoi.kr/로또-당첨번호)
 
 ---
 
