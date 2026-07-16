@@ -656,17 +656,27 @@ The expression “world-first-level” is also a limited explanation of a struct
 
 ## 18. Closing
 
-Before speaking about results, LOTTOi sought to leave behind a record standard through which those results could be checked.
+Before speaking about results, LOTTOi sought to establish a record standard through which those results could be checked.
 
-The purpose of publishing this LOTTOi verification whitepaper is clear.
+The LOTTOi Public Verification Whitepaper was prepared to help users understand the principles and structure of the external public verification framework applied by LOTTOi and directly review the corresponding public records.
 
-It is to help the external public verification framework we designed become a more transparent standard for lottery services, and to contribute to creating a more transparent lottery market with fewer manipulation concerns.
+LOTTOi applies an external public verification framework in which generated numbers are recorded externally before the draw and the reference point of those records is connected to a separate external public record for post-draw verification.
 
-LOTTOi records generated numbers externally before the draw and applies an external public verification framework so that those records can be connected again to external public means for verification.
+Through this verification structure, LOTTOi aims to increase user confidence in its generated-number records and result disclosure process and to provide a more transparent service environment.
 
-LOTTOi expects this model to move beyond being a differentiating feature of a single service and become a trust standard for lottery-related services overall.
+LOTTOi will continue to place importance on clear record and verification standards in order to support a transparent environment in which users can make reasonable choices.
 
-For a transparent environment that helps users make reasonable choices, LOTTOi will continue to treat record standards as important.
+---
+
+## 19. Rights and Use Notice
+
+Copyright in the text, tables, diagrams, editorial arrangement, and related materials contained in this whitepaper belongs to the lawful rights holder.
+
+Publication of this whitepaper does not constitute a waiver of rights in the technical configurations, system structures, or operating methods described herein, nor does it grant permission to freely reproduce, modify, implement, introduce, or commercially use them.
+
+The technical configurations and system structures described in this whitepaper may be subject to separate intellectual property protection. Access to or publication of this whitepaper does not, by itself, grant any right of use or license concerning them.
+
+Any partnership, technical implementation, licensing, or commercial use involving LOTTOi materials is subject to separate consultation and agreement with the rights holder.
 
 ---
 
